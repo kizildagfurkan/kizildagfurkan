@@ -7,7 +7,7 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kizildagfurkan/)
 
-[![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=Mail&logoColor=white)](kizildagfurkan@hotmail.com)
+[![E-Mail](https://img.shields.io/badge/E-Mail-000000?style=for-the-badge&logo=Mail&logoColor=white)](kizildagfurkan@hotmail.com)
 
 <!---
 kizildagfurkan/kizildagfurkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
