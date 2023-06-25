@@ -5,9 +5,10 @@
 - 💞️ Yazılım konusunda çok yeni olmakla beraber ilk başladığım günden bu yana yazılım ve yazılım test konularında kendime çok şey katmış olmakla beraber hala bilmediğim çok fazla şey var ve bunları araştırmak, öğrenmek için tutkum ve isteğim beni hep bir sonraki adıma taşıyan etmenler olmuştur.
 - 📫 Bana aşağıdaki adreslerden ulaşabilirsiniz.
 
+- E-Mail = kizildagfurkan@hotmail.com
+
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kizildagfurkan/)
 
-[![E-Mail](https://img.shields.io/badge/E-Mail-000000?style=for-the-badge&logo=EMail&logoColor=white)](kizildagfurkan@hotmail.com)
 
 <!---
 kizildagfurkan/kizildagfurkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
